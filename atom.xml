@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[kakawait]]></title>
+  <link href="http://kakawait.github.com/atom.xml" rel="self"/>
+  <link href="http://kakawait.github.com/"/>
+  <updated>2013-04-01T21:06:47+02:00</updated>
+  <id>http://kakawait.github.com/</id>
+  <author>
+    <name><![CDATA[Thibaud Leprêtre]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
